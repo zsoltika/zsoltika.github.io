@@ -17,7 +17,6 @@ avatar: https://c1.staticflickr.com/8/7306/27466869632_7cbd15db3b_q.jpg
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-<<<<<<< HEAD
   email: zsolt.botykai@gmail.com
   facebook: botykai.zsolt
   flickr: zsoltika
@@ -27,22 +26,7 @@ footer-links:
   rss: RSS
   twitter: botykai_zsolt
   stackoverflow: users/11621/zsolt-botykai
-=======
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
->>>>>>> refs/remotes/barryclark/master
+  googleplus: +ZsoltBotykai
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
